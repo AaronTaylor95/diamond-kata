@@ -1,0 +1,13 @@
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.exe
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.deps.json
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.runtimeconfig.json
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.runtimeconfig.dev.json
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.dll
+C:\Users\aaron.taylor\source\kata\diamond\diamond\bin\Debug\netcoreapp3.1\diamond.pdb
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.csprojAssemblyReference.cache
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.csproj.CoreCompileInputs.cache
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.AssemblyInfoInputs.cache
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.AssemblyInfo.cs
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.dll
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.pdb
+C:\Users\aaron.taylor\source\kata\diamond\diamond\obj\Debug\netcoreapp3.1\diamond.genruntimeconfig.cache
